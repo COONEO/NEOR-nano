@@ -1,0 +1,12 @@
+../Core/Src/main.c:62:6:Left_Go	1
+../Core/Src/main.c:68:6:Right_Go	1
+../Core/Src/main.c:74:6:Left_Back	1
+../Core/Src/main.c:80:6:Right_Back	1
+../Core/Src/main.c:86:6:Go_Back	1
+../Core/Src/main.c:95:6:Left_Stop	1
+../Core/Src/main.c:101:6:Right_Stop	1
+../Core/Src/main.c:113:6:MotorControl	5
+../Core/Src/main.c:142:6:Set_Servo_angle	5
+../Core/Src/main.c:158:5:main	1
+../Core/Src/main.c:259:6:SystemClock_Config	3
+../Core/Src/main.c:302:6:Error_Handler	1

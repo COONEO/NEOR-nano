@@ -1,0 +1,12 @@
+../Core/Src/main.c:62:6:Left_Go	8	static
+../Core/Src/main.c:68:6:Right_Go	8	static
+../Core/Src/main.c:74:6:Left_Back	8	static
+../Core/Src/main.c:80:6:Right_Back	8	static
+../Core/Src/main.c:86:6:Go_Back	8	static
+../Core/Src/main.c:95:6:Left_Stop	8	static
+../Core/Src/main.c:101:6:Right_Stop	8	static
+../Core/Src/main.c:113:6:MotorControl	24	static
+../Core/Src/main.c:142:6:Set_Servo_angle	32	static
+../Core/Src/main.c:158:5:main	8	static
+../Core/Src/main.c:259:6:SystemClock_Config	72	static
+../Core/Src/main.c:302:6:Error_Handler	4	static,ignoring_inline_asm
