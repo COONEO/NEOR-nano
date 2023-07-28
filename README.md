@@ -2,5 +2,5 @@
 
 
 
-![nano black](images/nano black.png)
+![nano black](images/nanoblack.png)
 
